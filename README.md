@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David-Adams0667
-- 👀 I’m interested in C#, MVC, OCR, and IA
+- 👀 I’m interested in C#, MVC, OCR, and AI
 - 🌱 I’m currently learning OCR and PDF manipulation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
